@@ -1,0 +1,5 @@
+setup.py
+uavenv.egg-info/PKG-INFO
+uavenv.egg-info/SOURCES.txt
+uavenv.egg-info/dependency_links.txt
+uavenv.egg-info/top_level.txt
